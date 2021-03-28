@@ -1,2 +1,2 @@
 # hotelapp
-monodb
+ foodiehotelapp
